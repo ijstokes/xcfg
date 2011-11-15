@@ -1,0 +1,12 @@
+<config
+    CCP4_SCR="/tmp"
+    CCP4="/programs/i386-linux/ccp4/6.1.1/ccp4-6.1.1"
+>
+    <foo>abc</foo>
+    <bar>123</bar>
+    <zip a="x" b="y"/>
+    <zap>
+        <blort> apples </blort>
+        <wibble> peaches </wibble>
+    </zap>
+</config>

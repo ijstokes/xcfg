@@ -1,0 +1,6 @@
+<simple2
+    zip="bong"
+    HOME="/tmp">
+    <ping> pow </ping>
+    <blort> wibble </blort>
+</simple2>
